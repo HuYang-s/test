@@ -1,0 +1,35 @@
+**Story Premise:**
+You are a treasure hunter seeking the legendary Amulet of Xylar, rumored to be hidden within the treacherous Serpent's Coil cave system. Local legends say the amulet grants its wearer unimaginable power.
+
+**Rooms:**
+
+*   **Room 1: Cave Mouth**
+    *   Description: You stand at the gaping maw of the Serpent's Coil. A chilling wind whistles through the entrance, carrying the scent of damp earth and something faintly reptilian. A narrow path disappears into the darkness to the east.
+    *   Exits: East (Winding Tunnel)
+*   **Room 2: Winding Tunnel**
+    *   Description: The tunnel twists and turns, the walls slick with moisture. Strange phosphorescent fungi cast an eerie green glow, illuminating ancient, unreadable symbols carved into the rock. The path continues east, and a small fissure opens to the north.
+    *   Exits: East (Glimmering Cavern), North (Fungus Grotto), West (Cave Mouth)
+*   **Room 3: Fungus Grotto**
+    *   Description: This small grotto is filled with a variety of glowing mushrooms. Their light dances on the damp walls, creating an almost magical atmosphere. A faint scratching sound can be heard from a pile of rocks in the corner.
+    *   Exits: South (Winding Tunnel)
+*   **Room 4: Glimmering Cavern**
+    *   Description: This vast cavern glitters with thousands of tiny crystals embedded in the ceiling, reflecting the light from your torch (or the glowing fungi if you have one). In the center of the cavern, a rough-hewn stone pedestal stands empty. A narrow passage leads south.
+    *   Exits: West (Winding Tunnel), South (Serpent's Lair - *requires 'Serpent's Eye Gem'*)
+*   **Room 5: Serpent's Lair**
+    *   Description: The air here is thick and heavy with a musky odor. Coiled upon a bed of old bones and discarded treasures is a colossal stone serpent, its eyes fixed upon you. The Amulet of Xylar rests on a small alcove behind the serpent.
+    *   Exits: North (Glimmering Cavern - *if serpent is pacified or defeated*)
+
+**Items:**
+
+*   **Item 1: Glowing Mushroom**
+    *   Description: A fist-sized mushroom that emits a soft, steady green light. It feels slightly warm to the touch.
+    *   Location: Fungus Grotto
+*   **Item 2: Serpent's Eye Gem**
+    *   Description: A smooth, fist-sized red gem that pulses with a faint inner light. It feels strangely warm.
+    *   Location: Winding Tunnel (hidden, requires searching or interaction)
+*   **Item 3: Amulet of Xylar**
+    *   Description: A heavy gold amulet shaped like a coiled serpent, with a large, empty socket in its center. It hums with a barely perceptible energy.
+    *   Location: Serpent's Lair
+
+**Goal:**
+Find the Serpent's Eye Gem, use it to bypass or pacify the stone serpent in the Serpent's Lair, and retrieve the Amulet of Xylar.
