@@ -19,5 +19,8 @@ Once the game starts, you can interact by typing commands. Here are the basic co
 *   `help`: Displays a list of available commands.
 *   `quit`: Exits the game.
 
+## API Reference
+
+For programmatic usage and detailed function documentation, see `API.md`.
+
 Good luck, adventurer!
-```
